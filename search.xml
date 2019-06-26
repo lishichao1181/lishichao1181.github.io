@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[kvm虚拟化]]></title>
+    <url>%2F2019%2F06%2F26%2Fkvm%E8%99%9A%E6%8B%9F%E5%8C%96%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>虚拟化</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[Hello]]></title>
     <url>%2F2019%2F06%2F26%2FHello%2F</url>
     <content type="text"></content>
